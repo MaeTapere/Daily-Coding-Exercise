@@ -36,3 +36,14 @@ public class Factorial {
 
     }
 }
+
+/**
+ * 1. Ask the user a number
+ * 2. Store the number in N
+ * 3. Set result = 1
+ * 4. Start a counter at 1
+ * 5. Repeat while counter is less than or equal to N
+ * 6. Multiply result by the counter
+ * 7. Increase counter by 1
+ * 8. After the loop, print the result
+ */
