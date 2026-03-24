@@ -23,3 +23,22 @@ public class PrintEachNumberAndSum {
         System.out.println(sum);
     }
 }
+
+/*
+ * BEFORE LOOP:
+ * 1. Ask user number
+ * 2. Store number in N
+ * 3. Set sum = 0
+ * 4. Start counter at 1
+ *
+ * INSIDE LOOP:
+ * 5. Print the counter
+ *
+ * ONLY IF EVEN:
+ *. 6. Print the counter (for even section)
+ *. 7. Add the counter to sum
+ * 8. Increase counter by 1
+ *
+ * AFTER LOOP:
+ * 9. Print sum
+ */
